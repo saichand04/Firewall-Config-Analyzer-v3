@@ -1,0 +1,9 @@
+{
+  "name": "Firewall Config Analyzer v3",
+  "description": "An AI-powered dashboard to analyze firewall configurations for security vulnerabilities, compliance gaps, and redundant rules. This version features stabilized AI logic for exhaustive configuration parsing and explicit issue-to-policy correlation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
